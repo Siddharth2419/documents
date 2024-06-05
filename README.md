@@ -4,9 +4,10 @@
  ## Introduction
 Simply put, it’s a version control repository that contains multiple projects or applications within a single repository.
 A monorepo is a single, centralized storage repository for all your application and microservice code. Unlike traditional, decentralized version control strategies where each project or service has its own repository, a monorepo encompasses the entire codebase in one repository. This includes libraries, services, and sometimes even datasets and configuration files.
-
+![Alt text](https://monorepo.tools/images/monorepo-polyrepo.svg)
 ## Why
 Monorepos offer improved visibility, allowing teams to better communicate and collaborate. In a large team, this is especially beneficial. Developers can see the entire codebase, understand the context of their work better, and make cross-project changes effortlessly.
+A polyrepo is the current standard way of developing applications: a repo for each team, application, or project. And it's common that each repo has a single build artifact, and simple build pipeline
 
 ## Features 
  * Manageable
@@ -81,3 +82,16 @@ Monorepos offer improved visibility, allowing teams to better communicate and co
 ## Coclusion
 There are numerous advantages for large-scale software development projects, including code reusability, improved collaboration, and streamlined dependency management. However, it also presents challenges in terms of complexity and tooling overhead.
 Monorepos provide benefits like visibility, collaboration, and code sharing, but they are not the right fit for every team. Understand your team’s strengths and weaknesses to decide if a monorepo is the right choice.
+
+
+## Contact Information
+
+| Name          | Email Address                          | 
+| ------------- |:--------------------------------------:|
+| Siddharth      | siddharth.pawar.snaatak@mygurukulam.co |
+
+## Refrences 
+
+| Links          | Description                          | 
+| ------------- |:--------------------------------------:|
+|      | siddharth.pawar.snaatak@mygurukulam.co |
