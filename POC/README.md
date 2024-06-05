@@ -60,7 +60,17 @@ yarn global add lerna
 ```
 
 
+## Contact Information
 
+| Name          | Email Address                          | 
+| ------------- |:--------------------------------------:|
+| Siddharth      | siddharth.pawar.snaatak@mygurukulam.co |
+
+## Refrences 
+
+| Links          | Description                          | 
+| ------------- |:--------------------------------------:|
+|    https://monorepo.tools/#understanding-monorepos  | For Information pupose|
 
 
 
