@@ -94,4 +94,6 @@ Monorepos provide benefits like visibility, collaboration, and code sharing, but
 
 | Links          | Description                          | 
 | ------------- |:--------------------------------------:|
-|      | siddharth.pawar.snaatak@mygurukulam.co |
+|    https://monorepo.tools/#understanding-monorepos  | For Information pupose|
+|   https://medium.com/ableneo/monorepo-pros-cons-tools-2e6f86939be1  | For Pros and Cons information pupose|
+|    https://github.com/OT-MICROSERVICES/documentation-template/wiki/Application-Template#references  | Format pupose|
