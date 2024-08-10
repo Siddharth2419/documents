@@ -41,10 +41,32 @@ Grafana is a popular open-source analytics and visualization tool, but you need 
 
 
 *Grafana dashboard* (Source: Grafana website)
+![image](https://github.com/user-attachments/assets/05aba0d2-ab5c-4cd2-a6ca-3163a4bba49d)
 
 Another great point to consider is that you can build an open-source monitoring stack using Grafana and other open-source specialized tools meant for monitoring, like Prometheus. You can host this stack within your infrastructure, which takes care of data privacy concerns.
 
 DataDog is a third-party SaaS vendor, and your data will be sent to the DataDog cloud for analysis and visualization.
+![image](https://github.com/user-attachments/assets/5226d5b5-b238-4fd8-9bfd-b8ef98f436cf)
+
+
+# When to use Grafana?
+Use Grafana when you …
+
+need beautiful, simple, annotated graphs.
+have multiple sources of metrics or logs and need to see them in one place.
+need to share your dashboards across the organization.
+need to reorganize information based on specific team needs.
+need an easy-to-use query builder.
+need alerting for events.
+When to use Datadog?
+# Use Datadog when you …
+
+want to monitor infrastructure or apps.
+want to visualize data from any source, even on the same graph.
+want to communicate with the team directly in the dashboard.
+need alerting for events
+
+
 
 # Pricing
 
